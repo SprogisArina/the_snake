@@ -16,6 +16,7 @@
 
 ```
 git clone https://github.com/SprogisArina/the_snake.git
+cd the_snake
 ```
 
 Настройка виртуального окружения
